@@ -1,2 +1,2 @@
-Name: Luke Delaney
-CNetID: 12328445
+Luke Delaney 12328445
+UChicago CS Git Tutorial
